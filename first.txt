@@ -1,0 +1,6 @@
+This is a text file.
+changing this file
+
+function x() {
+	hello.
+}
